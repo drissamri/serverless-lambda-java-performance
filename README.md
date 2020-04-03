@@ -15,5 +15,5 @@ curl --header "Content-Type: application/json" \
 ### Java 8: 2.5s
 ![Java 8 ](./java8.png)
 
-### Java 8: 2.5s
+### Java 11: 2.8s
 ![Java 11](./java11.png)
